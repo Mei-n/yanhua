@@ -15,5 +15,9 @@
   "license": "ISC",
   "dependencies": {
     "jsdom": "^23.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
   }
 }
